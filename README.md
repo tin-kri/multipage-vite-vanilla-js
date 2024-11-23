@@ -15,7 +15,7 @@ This project involves creating a simple web application using Tailwind CSS and V
 
 ## Netlify
 
-https://stirring-kringle-2c74d5.netlify.app/](https://ca-css-frameworks.netlify.app/
+https://ca-css-frameworks.netlify.app/
 
 ## Credits
 
