@@ -2,7 +2,7 @@
 // import { setupCounter } from "./assets/js/counter";
 // import viteLogo from "/vite.svg";
 // import javascriptLogo from "./assets/img/javascript.svg";
-
+import "./style.css";
 import { mobileNavigation } from "./mobileNav";
 
 mobileNavigation();
