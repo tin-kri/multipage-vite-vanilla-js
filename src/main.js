@@ -1,17 +1,16 @@
 // ./src/main.js
+// import { setupCounter } from "./assets/js/counter";
+// import viteLogo from "/vite.svg";
+// import javascriptLogo from "./assets/img/javascript.svg";
 
-import { setupCounter } from "./assets/js/counter";
+import { mobileNavigation } from "./mobileNav";
 
-import viteLogo from "/vite.svg";
-import javascriptLogo from "./assets/img/javascript.svg";
+mobileNavigation();
 
-document.querySelector("#app").innerHTML = `
-  <div>
-    ...
-    ...
-    <a href="/about">About</a> |
-    <a href="/blog/article">Article</a>
+document.querySelector("#landing-page").innerHTML = `
+  <div >
+     <h1 class=" text-red-950 text-center p-10 text-5xl font-bold tracking-wider">Mizioù</h1>
   </div>
 `;
 
-setupCounter(document.querySelector("#counter"));
+// setupCounter(document.querySelector("#counter"));
