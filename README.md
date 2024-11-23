@@ -15,7 +15,12 @@ This project involves creating a simple web application using Tailwind CSS and V
 
 ## Netlify
 
-https://stirring-kringle-2c74d5.netlify.app/
+https://stirring-kringle-2c74d5.netlify.app/](https://ca-css-frameworks.netlify.app/
+
+## Credits
+
+In this project I found good help in this article about creating a multipage web application.
+[Multipage Vite Vanilla JavaScript by Mochamad Boval](https://dev.to/mochamadboval/multipage-vite-vanilla-javascript-3i0l)
 
 
 ## Contributing
