@@ -6,8 +6,8 @@ export default {
     rollupOptions: {
       input: {
         index: "./src/index.html",
-        about: "./src/about.html",
-        article: "./src/blog/article.html",
+        profile: "./src/profile/index.html",
+        feed: "./src/feed/index.html",
       },
     },
   },
