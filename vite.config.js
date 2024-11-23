@@ -5,9 +5,9 @@ export default {
     emptyOutDir: true,
     rollupOptions: {
       input: {
-        index: "./src/index.html",
-        profile: "./src/profile/index.html",
-        feed: "./src/feed/index.html",
+        index: "/index.html",
+        profile: "/profile/index.html",
+        feed: "/feed/index.html",
       },
     },
   },
